@@ -1,0 +1,13 @@
+:root {
+  --fw-text: 400;
+  --fw-accent-title: 500;
+  --fc-text: #85859B;
+  --fc-title: #666666;
+  --fc-subtitle: #B5B5BD;
+  --fc-h1: #4C5866;
+  --fc-button-text: #7875FE;
+  --bc-menu: #DDDDDD;
+  --bc-material: #C0C0C0;
+  --bc-button: #7875FE;
+  --color-footer: #4C5866;
+}

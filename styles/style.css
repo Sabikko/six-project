@@ -1,0 +1,7 @@
+.page {
+  font-family: Roboto, sans-serif;
+  min-height: 100vh;
+  min-width: 100vw;
+  color: var(--fc-text);
+  font-weight: var(--fw-text);
+}
