@@ -4,10 +4,20 @@
   --fc-text: #85859B;
   --fc-title: #666666;
   --fc-subtitle: #B5B5BD;
-  --fc-h1: #4C5866;
+  --fc-accent-text: #4C5866;
   --fc-button-text: #7875FE;
+  --bgc-focus-btn: #DAD9FB;
+  --fill-hover-link: #DAD9FB;
+  --fill-active-link: #7875FE;
+  --bgc-hover-btn: #7875FE;
+  --c-active-btn: #4946B4;
+  --fc-hover-text: #4946B4;
+  --fc-active-text: #4946B4;
+  --bgc-active-btn: #4946B4;
+  --bgc-accent: #EBEBEB;
   --bc-menu: #DDDDDD;
+  --bc-partners: #C4C4C4;
   --bc-material: #C0C0C0;
   --bc-button: #7875FE;
-  --color-footer: #4C5866;
+  --bgc-footer: #4C5866;
 }
